@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shammas01.github.io/my-site/](https://shammas01.github.io/my-site/)
 
-- 💬 Ask me about **Python,Django,PostgreSQL,HTML,CSS,JS,DRF**
+- 💬 Ask me about **Python,Django,PostgreSQL,HTML,CSS,JS,DRF,React**
 
 - 📫 How to reach me **shammasmhd0@gmail.com**
 
