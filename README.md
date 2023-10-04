@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shammas</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 - 🔭 I’m currently working on **E-commerce website & Rest API**
 
