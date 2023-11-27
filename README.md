@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,Django,PostgreSQL,HTML,CSS,JS,DRF,React**
 
-- 📫 How to reach me **shammasmhd0@gmail.com**
+- 📫 How to reach me **shammasvavad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
