@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shammas</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 - 🔭 I’m currently working on **E-commerce website & Rest API**
 
-- 🌱 I’m currently learning **Python Django**
-
 - 👨‍💻 All of my projects are available at [https://shammas01.github.io/my-site/](https://shammas01.github.io/my-site/)
 
-- 💬 Ask me about **Python,Django,PostgreSQL,HTML,CSS,JS,DRF,React**
+- 💬 Ask me about **Python,Django,PostgreSQL,ORM,JS,DRF,Docker,Redis,Celery**
 
 - 📫 How to reach me **shammasvavad@gmail.com**
 
